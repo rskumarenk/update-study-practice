@@ -12,7 +12,7 @@
     height:100px; border-radius: 100%;width:100px;
   }
   </style>
-<h1 style="margin:0.01px" style="text-align:auto;"><img src="Profile GIF.GIF"/> UPDATE STUDY PRACTICE<img src="Profile GIF.GIF"/></h1>
+<h1> style="margin:0.01px" style="text-align:auto;"><img src="Profile GIF.GIF"/> UPDATE STUDY PRACTICE<img src="Profile GIF.GIF"/></h1>
 <center>
 </div>
  <hr>     
