@@ -9,11 +9,10 @@
 <div class="head">
     <center>
   <style>  img{
-    height:100px; border-radius: 100%;width:100px;
-  }
+    height:100px; border-radius: 100%;width:100px;}
   </style>
 <h1> style="margin:0.01px" style="text-align:auto;"><img src="Profile GIF.GIF"/> UPDATE STUDY PRACTICE<img src="Profile GIF.GIF"/></h1>
-<center>
+</center>
 </div>
  <hr>     
 <h3>About us:</h3>
